@@ -1,6 +1,6 @@
 # 🦸‍♂️ Pokedex App
 
-A modern Pokedex app built with **Next.js** and **TypeScript**, allowing users to search for Pokémon, view their detailed information, and explore their evolution chain. The app uses **PokéAPI** for fetching Pokémon data and **Zustand** for state management. Live demo: [findpoke.vercel.app](https://findpoke.vercel.app)
+A modern Pokedex app built with **Next.js** and **TypeScript**, allowing users to search for Pokémon, view their detailed information, and explore their evolution chain. The app uses [Poke API](https://pokeapi.co) for fetching Pokémon data and **Zustand** for state management. Live demo: [findpoke.vercel.app](https://findpoke.vercel.app)
 
 [![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://vercel.com)  
 [![Next.js](https://img.shields.io/badge/built%20with-Next.js-000?logo=next.js)](https://nextjs.org)  
@@ -77,7 +77,3 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 Deploy on Vercel:
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-
-```
-
-```
